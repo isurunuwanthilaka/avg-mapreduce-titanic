@@ -1,0 +1,5 @@
+Averaging using Mapreduce
+=========================
+
+In this example I am trying to find the average ages of males and females died in titanic accident.This scinario is good candidate for implementing mapreduce with averaging.
+ 
